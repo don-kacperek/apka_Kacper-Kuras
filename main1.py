@@ -1,0 +1,1 @@
+print("Zmiana wprowadzona z poziomu GitHub")
