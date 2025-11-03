@@ -47,3 +47,5 @@ if __name__=="__main__":
    
    srednia=tablica.oblicz_sr()
    print(f"srednia wartosci w tablicy to: {srednia}")
+
+print("Zmiana wprowadzona z poziomu GitHub")
